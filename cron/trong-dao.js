@@ -17,12 +17,12 @@ const NGO_DONG_THU_ID = 40912;
 const ACCOUNTS = [
   {
     id: 132301,
-    cookie: 'USER=TwRpTyqt3y4R%3ASy7%2FIXt4vyy6Eeo%2BYVxgKj55TNph5rPbBEb4DUuONsN9',
+    cookie: 'USER=',
     type: [BO_DE_THU]
   },
   {
     id: 301356,
-    cookie: 'USER=rp7pbXvABThf%3AujUMdQMzrSvr5Ja4Nj8zYSB14IFmKGCkyt6h%2BZJPcjOY',
+    cookie: 'USER=',
     type: [BAN_DAO_THU]
   }
 ];
