@@ -1,0 +1,6 @@
+node_modules/
+.idea/
+logs/
+chuyen-bac-*.log
+chuyen-bac-*.gz
+*-audit.json
